@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
+  <!-- The main heart shape -->
+  <path d="M50 88.937l-6.852-6.236C18.815 60.627 3 46.289 3 28.5 3 14.156 14.156 3 28.5 3c8.118 0 15.903 3.799 21.5 9.896C55.597 6.799 63.382 3 71.5 3 85.844 3 97 14.156 97 28.5c0 17.789-15.815 32.127-40.148 54.218L50 88.937z" fill="#ff69b4"/>
+  
+  <!-- A little white shine to make it cute and glossy -->
+  <ellipse cx="25" cy="20" rx="8" ry="4" fill="#ffffff" opacity="0.6" transform="rotate(-30 25 20)" />
+</svg>
