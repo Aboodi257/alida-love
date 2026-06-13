@@ -512,7 +512,7 @@ export default function App() {
       <div className="ambient-glow-2"></div>
       <div className="ambient-glow-3"></div>
       
-      <audio ref={audioRef} src="https://assets.mixkit.co/music/preview/mixkit-romantic-piano-and-strings-108.mp3" loop />
+      <audio ref={audioRef} src="public\Ed Sheeran - Perfect.mp3" loop />
 
       {!cinematicActive ? (
         <div className="experience-scroll-container">
